@@ -1,3 +1,5 @@
+#Anton Tkachuk, @fre7co everywhere
+
 import random
 
 tokens = 10
